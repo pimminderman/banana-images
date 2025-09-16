@@ -5,9 +5,9 @@ A list of the best imagery that I made with AI.
 
 ---_________________________________________________________---
 
-**Repository**
+<h1> Bananas by Pim**
 
-**Isometric**
+ <h3>Isometric</h3>
 
  <blockquote>
         <p class="prompt-label">Prompt</p>
