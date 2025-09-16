@@ -5,13 +5,13 @@ A list of the best imagery that I made with AI.
 
 ________________________________________________________________________________________________________________________________________________________________________
 
-<h1> Bananas by Pim**
+<h1> Bananas by Pim </h1>
 
 ## Categories
 - [Isometric](#isometric)
 - [Futuristic](#futuristic)
 - [Fashion-stuff](#fashion-stuff)
-- [Vehicles](#Vehicles)
+- [Everything on wheels](#Vehicles)
  
 <h3 id="isometric">Isometric</h3>
 
@@ -33,6 +33,16 @@ ________________________________________________________________________________
 
 
 <h3 id="Vehicles">Vehicles</h3>
+
+<blockquote>
+        <p class="prompt-label">Prompt</p>
+        <p><code> Create a deconstructed version of the Cervelo P5, as if it's disassembled and in 3 different colours and three different variations
+</code></p>
+    </blockquote>
+
+<img width="800" height="418" alt="Gemini_Generated_Image_t85t76t85t76t85t" src="https://github.com/user-attachments/assets/b5e18b6d-15a2-4418-bea6-8ffb2fb10cb6" />
+<img width="800" height="800" alt="Gemini_Generated_Image_npjrjxnpjrjxnpjr" src="https://github.com/user-attachments/assets/dba3f678-07ec-44d9-9102-c4df4c3ac4da" />
+<img width="800" height="800" alt="Gemini_Generated_Image_i3swk0i3swk0i3sw" src="https://github.com/user-attachments/assets/ca756cf3-d170-40d0-b7e6-a500a56f429a" />
 
 
 
