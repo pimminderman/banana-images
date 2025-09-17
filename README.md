@@ -1,3 +1,9 @@
+
+<div class="full-width-header">
+  <img src="https://github.com/user-attachments/assets/d042b4bf-2d06-4d10-8bcf-ec2a7752e94c" alt="Gemini_Generated_Image_jf021djf021djf02" />
+</div>
+
+
 # banana-images
 Repository of personal best nanon banana images
 
