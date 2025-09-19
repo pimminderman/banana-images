@@ -5,9 +5,9 @@
 
 
 # banana-images
-Repository of personal best nanon banana images
-
-A list of the best imagery that I made with AI. 
+Repository of personal best images & videos, generated with several AI software.
+Tools used so far:
+- Nano Banana
 
 ________________________________________________________________________________________________________________________________________________________________________
 
